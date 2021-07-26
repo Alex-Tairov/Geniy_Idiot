@@ -97,8 +97,8 @@
             this.рестартToolStripMenuItem,
             this.выходToolStripMenuItem});
             this.файлToolStripMenuItem.Name = "файлToolStripMenuItem";
-            this.файлToolStripMenuItem.Size = new System.Drawing.Size(59, 24);
-            this.файлToolStripMenuItem.Text = "Файл";
+            this.файлToolStripMenuItem.Size = new System.Drawing.Size(65, 24);
+            this.файлToolStripMenuItem.Text = "Меню";
             // 
             // новаяИграToolStripMenuItem
             // 

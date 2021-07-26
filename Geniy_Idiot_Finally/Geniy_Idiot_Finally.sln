@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geniy_Idiot_WinForms", "Geniy_Idiot\Geniy_Idiot_WinForms.csproj", "{2023D215-94AA-4E44-9D28-A037049F59BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geniy_Idiot_Common", "Geniy_Idiot_Common\Geniy_Idiot_Common.csproj", "{140CA668-283A-41F8-9F05-FF387F6716AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2023D215-94AA-4E44-9D28-A037049F59BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2023D215-94AA-4E44-9D28-A037049F59BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2023D215-94AA-4E44-9D28-A037049F59BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2023D215-94AA-4E44-9D28-A037049F59BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{140CA668-283A-41F8-9F05-FF387F6716AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{140CA668-283A-41F8-9F05-FF387F6716AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{140CA668-283A-41F8-9F05-FF387F6716AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{140CA668-283A-41F8-9F05-FF387F6716AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B54742CD-40FD-4EE9-9DE9-676E0E6866D9}
+	EndGlobalSection
+EndGlobal
